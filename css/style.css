@@ -1,0 +1,17 @@
+.table-design {
+  width: 100%;
+  text-align: center;
+  caption-side: bottom;
+}
+th,
+td {
+  border: solid 2px black;
+}
+h1 {
+  text-align: center;
+  text-decoration: underline;
+  color: blueviolet;
+}
+th {
+  background-color: lightcoral;
+}
